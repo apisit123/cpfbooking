@@ -214,3 +214,4 @@
 [2021-12-14 21:40:47] ERROR: <br>Exception : <em>Uri scheme must be http, https or empty string</em> in <b>/var/www/example.com/public_html/Kotchasan/Http/Uri.php</b> on line <b>166</b> 
 [2022-01-11 11:53:13] ERROR: <br>Exception : <em>Method index not found in Booking\Calendar\Model</em> in <b>/var/www/example.com/public_html/index.php</b> on line <b>19</b> 
 [2022-01-15 11:35:07] ERROR: <br>Exception : <em>Method index not found in Booking\Calendar\Model</em> in <b>/var/www/example.com/public_html/index.php</b> on line <b>19</b> 
+[2022-02-10 10:28:30] ERROR: <br>Exception : <em>Uri scheme must be http, https or empty string</em> in <b>/var/www/example.com/public_html/Kotchasan/Http/Uri.php</b> on line <b>166</b> 
